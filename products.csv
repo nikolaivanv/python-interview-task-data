@@ -39,7 +39,7 @@ id,part_number,manufacturer_name,updated_at,categories_list,aka_part_numbers_lis
 38,PB3-06805,Bosch,2023-02-05 0:00:00,Engine,P32-77957;7E2-14112;ZP4-79655,Bosch Engine Part PB3-06805
 39,SGL-47626,NGK,2024-10-12 0:00:00,Body;Engine;Transmission,BP8-66892;1A7-88635;LNE-43840,NGK Body Part SGL-47626
 40,4DR-57071,ACDelco,2023-04-23 0:00:00,Exhaust,924-40574;I5T-42976;JG0-19259,ACDelco Exhaust Part 4DR-57071
-41,XIP-81410,Bosch,2023-03-22 0:00:00,Suspension;Exhaust,YN6-60439;2D7-80668,Bosch Suspension Part XIP-81410
+41,XIP-81410,,2023-03-22 0:00:00,Suspension;Exhaust,YN6-60439;2D7-80668,Bosch Suspension Part XIP-81410
 42,KNF-90348,Bosch,2024-11-02 0:00:00,Electrical;Lighting;Body,VRS-90740,Bosch Electrical Part KNF-90348
 43,PKE-99524,Valeo,2024-10-09 0:00:00,Suspension;Cooling;Body,,Valeo Suspension Part PKE-99524
 44,493-70149,Denso,2024-06-24 0:00:00,Steering;Body,SPM-51145;CMO-45773,Denso Steering Part 493-70149
@@ -167,7 +167,7 @@ id,part_number,manufacturer_name,updated_at,categories_list,aka_part_numbers_lis
 166,HE3-62974,Valeo,2023-12-08 0:00:00,Transmission;Brakes,A7S-79184;ZTG-43625;YQN-80218,Valeo Transmission Part HE3-62974
 167,5IC-26785,Delphi,2024-06-21 0:00:00,Cooling,3O7-13701,Delphi Cooling Part 5IC-26785
 168,VWX-83129,Magneti Marelli,2024-02-04 0:00:00,Electrical,SJA-26161;CHA-73904,Magneti Marelli Electrical Part VWX-83129
-169,EDT-42536,Magneti Marelli,2023-08-06 0:00:00,Cooling,LY6-03644;1Z4-39491;S0Q-26636,Magneti Marelli Cooling Part EDT-42536
+169,EDT-42536,,2023-08-06 0:00:00,,LY6-03644;1Z4-39491;S0Q-26636,Magneti Marelli Cooling Part EDT-42536
 170,QYT-00099,Valeo,2023-10-20 0:00:00,Exhaust;Engine,RY1-16580,Valeo Exhaust Part QYT-00099
 171,BYM-02251,Bosch,2023-03-31 0:00:00,Engine;Exhaust,6DO-81625,Bosch Engine Part BYM-02251
 172,4PT-16977,NGK,2024-09-28 0:00:00,Suspension,,NGK Suspension Part 4PT-16977
@@ -295,7 +295,7 @@ id,part_number,manufacturer_name,updated_at,categories_list,aka_part_numbers_lis
 294,14O-44815,Valeo,2024-02-06 0:00:00,Engine;Electrical;Lighting,EWR-52088;ED0-32744;0TG-51921,Valeo Engine Part 14O-44815
 295,QEK-61734,Bosch,2024-03-23 0:00:00,Exhaust;Electrical;Engine,7K9-92203;NH1-91482;T0A-50704,Bosch Exhaust Part QEK-61734
 296,VEY-24720,Denso,2024-02-13 0:00:00,Engine,,Denso Engine Part VEY-24720
-297,NEO-62121,Continental,2024-03-25 0:00:00,Steering,TYY-93236;PFJ-89947;LCO-33566,Continental Steering Part NEO-62121
+297,NEO-62121,Continental,2024-03-25 0:00:00,Steering,TYY-93236;PFJ-89947;LCO-33566,
 298,GCA-73731,Delphi,2023-11-02 0:00:00,Electrical;Steering;Lighting,NBV-85270;LUN-02658,Delphi Electrical Part GCA-73731
 299,KV0-05601,Delphi,2024-06-13 0:00:00,Body,,Delphi Body Part KV0-05601
 300,BXG-99909,Valeo,2024-06-02 0:00:00,Exhaust,,Valeo Exhaust Part BXG-99909
@@ -398,7 +398,7 @@ id,part_number,manufacturer_name,updated_at,categories_list,aka_part_numbers_lis
 397,GGG-73428,Continental,2023-07-24 0:00:00,Body;Engine,ZJL-33709;NF5-70957;49I-77300,Continental Body Part GGG-73428
 398,GJD-13435,Delphi,2024-10-19 0:00:00,Cooling,13Q-79513,Delphi Cooling Part GJD-13435
 399,E5Z-34515,Denso,2023-10-12 0:00:00,Suspension;Cooling,0AA-55497;LXR-74213;9VD-69111,Denso Suspension Part E5Z-34515
-400,0WF-40211,Denso,2023-10-13 0:00:00,Brakes,BUF-88662;29T-59131;92S-41624,Denso Brakes Part 0WF-40211
+400,,Denso,2023-10-13 0:00:00,Brakes,BUF-88662;29T-59131;92S-41624,
 401,7H7-78754,ACDelco,2024-08-15 0:00:00,Cooling;Suspension;Transmission,7EL-23355;J1Z-43865,ACDelco Cooling Part 7H7-78754
 402,Q3E-94090,ACDelco,2023-07-26 0:00:00,Transmission,IAK-00892,ACDelco Transmission Part Q3E-94090
 403,IWL-38859,Valeo,2023-04-07 0:00:00,Exhaust;Body,IKZ-61909;TBU-28995;CC8-06861,Valeo Exhaust Part IWL-38859
@@ -538,7 +538,7 @@ id,part_number,manufacturer_name,updated_at,categories_list,aka_part_numbers_lis
 537,3US-49593,NGK,2023-01-16 0:00:00,Brakes,PAB-92586;LCU-20766,NGK Brakes Part 3US-49593
 538,2KM-66457,Valeo,2023-12-02 0:00:00,Brakes,JLA-69388,Valeo Brakes Part 2KM-66457
 539,E6Y-42604,NGK,2024-06-11 0:00:00,Steering,DX5-41329;7GW-08562,NGK Steering Part E6Y-42604
-540,OEX-99426,ACDelco,2023-03-19 0:00:00,Brakes;Body,R56-46884,ACDelco Brakes Part OEX-99426
+540,,,2023-03-19 0:00:00,Brakes;Body,R56-46884,ACDelco Brakes Part OEX-99426
 541,VSR-03076,NGK,2024-07-08 0:00:00,Steering;Lighting,8MO-52341,NGK Steering Part VSR-03076
 542,UCK-23002,Continental,2024-11-24 0:00:00,Transmission,GIE-29734;AZM-88562,Continental Transmission Part UCK-23002
 543,AB0-65383,Delphi,2024-10-24 0:00:00,Transmission;Electrical;Steering,A7U-33454;YJQ-37111,Delphi Transmission Part AB0-65383
@@ -654,7 +654,7 @@ id,part_number,manufacturer_name,updated_at,categories_list,aka_part_numbers_lis
 653,1KN-90146,Valeo,2023-09-06 0:00:00,Engine,IGT-44776,Valeo Engine Part 1KN-90146
 654,BXG-42332,Bosch,2024-01-31 0:00:00,Lighting;Brakes;Steering,,Bosch Lighting Part BXG-42332
 655,HP8-44240,Valeo,2023-07-02 0:00:00,Suspension;Exhaust;Electrical,C38-69472;CTG-55757,Valeo Suspension Part HP8-44240
-656,0JI-31742,Delphi,2023-11-25 0:00:00,Brakes;Body,V3C-23666;S9L-00780;OUP-22610,Delphi Brakes Part 0JI-31742
+656,0JI-31742,,2023-11-25 0:00:00,Brakes;Body,V3C-23666;S9L-00780;OUP-22610,
 657,BXC-74553,ACDelco,2023-03-12 0:00:00,Exhaust,,ACDelco Exhaust Part BXC-74553
 658,DJN-27133,Bosch,2023-08-29 0:00:00,Electrical,JM0-88415;PSD-45553;L9X-92846,Bosch Electrical Part DJN-27133
 659,CXN-57473,ACDelco,2023-09-20 0:00:00,Engine,0CL-21318;7RO-36209,ACDelco Engine Part CXN-57473
@@ -834,11 +834,11 @@ id,part_number,manufacturer_name,updated_at,categories_list,aka_part_numbers_lis
 833,10L-91121,Denso,2023-11-24 0:00:00,Exhaust,,Denso Exhaust Part 10L-91121
 834,C6K-40801,NGK,2024-09-25 0:00:00,Brakes;Cooling,,NGK Brakes Part C6K-40801
 835,0UR-39989,NGK,2024-03-27 0:00:00,Suspension,,NGK Suspension Part 0UR-39989
-836,FFX-02188,Valeo,2024-05-12 0:00:00,Steering;Body;Engine,MH1-29415,Valeo Steering Part FFX-02188
+836,FFX-02188,Valeo,2024-05-12 0:00:00,Steering;Body;Engine,MH1-29415,
 837,0UJ-42111,Valeo,2024-02-09 0:00:00,Brakes;Exhaust,9SL-74456;40N-21664;NDQ-76799,Valeo Brakes Part 0UJ-42111
 838,JYE-19941,NGK,2023-08-21 0:00:00,Electrical,DJZ-48818,NGK Electrical Part JYE-19941
 839,5JQ-34769,Delphi,2023-08-01 0:00:00,Body,6U8-45762,Delphi Body Part 5JQ-34769
-840,0GC-07027,Delphi,2024-03-05 0:00:00,Lighting,8Q1-81366;H1X-69876;JXI-76629,Delphi Lighting Part 0GC-07027
+840,0GC-07027,,2024-03-05 0:00:00,Lighting,8Q1-81366;H1X-69876;JXI-76629,Delphi Lighting Part 0GC-07027
 841,FSI-26591,ACDelco,2023-10-13 0:00:00,Cooling;Electrical,XIZ-64942,ACDelco Cooling Part FSI-26591
 842,9XB-46614,Denso,2023-01-27 0:00:00,Cooling;Steering,NB2-47260;81X-29733,Denso Cooling Part 9XB-46614
 843,UD2-08549,Delphi,2024-03-28 0:00:00,Electrical;Steering,42Q-27022;0W0-68204,Delphi Electrical Part UD2-08549

@@ -93,7 +93,7 @@ Axis Motor Distributors,Delphi,8yz-78672,106.81,2024-10-05 0:00:00,Body
 NorthPeak Auto Supply,Continental,11G-15551,418.21,2023-09-24 0:00:00,Transmission
 PrimeGear Logistics,Bosch,UJE-33696,414.3,2024-05-15 0:00:00,Suspension
 MetroTorque Supply,Bosch,VFB-99960,422.15,2023-08-08 0:00:00,Body
-SilverBolt Components,Bosch,8K7-60061,429.36,2024-02-24 0:00:00,Suspension
+SilverBolt Components,DGR,8K7-60061,429.36,2024-02-24 0:00:00,Suspension
 SilverBolt Components,AC Delco,J7B-37338,348.65,2024-07-06 0:00:00,Exhaust
 GreenBridge Automotive,Magneti-Marelli,K26.17766,435.07,2023-04-27 0:00:00,Suspension
 PrimeGear Logistics,ACDelco,LZ6/85002,378.14,2023-08-30 0:00:00,Steering
@@ -241,7 +241,7 @@ MetroTorque Supply,ACDelco,ojm-87927,225.9,2023-08-26 0:00:00,Body
 GreenBridge Automotive,Denso,ADU-44517,499.45,2024-11-16 0:00:00,Suspension
 GreenBridge Automotive,Bosch Industrial,VKH-24980,294.44,2023-01-25 0:00:00,Body
 SilverBolt Components,Denso Manufacturing,EGI-94170,278.32,2023-09-23 0:00:00,Cooling
-GreenBridge Automotive,Bosch,BXG.42332,189.37,2023-02-18 0:00:00,Transmission
+GreenBridge Automotive,DGR,BXG.42332,189.37,2023-02-18 0:00:00,Transmission
 RoadLine Auto Parts,Delphi,9VD-69111,359.32,2024-11-08 0:00:00,Exhaust
 SilverBolt Components,Valeo Corp,7xe/16418,98.45,2024-06-22 0:00:00,Brakes
 EverDrive Components,Delphi Technologies,5-UY65985,49.55,2024-06-02 0:00:00,Brakes
@@ -395,7 +395,7 @@ MetroTorque Supply,Denso Corp,RGS-11713,453.9,2024-11-05 0:00:00,Steering
 PrimeGear Logistics,Valeo Industries,R2H-53423,284.59,2023-08-12 0:00:00,Steering
 NorthPeak Auto Supply,Delphi,AYQ-54513,24.13,2024-11-23 0:00:00,Steering
 MetroTorque Supply,A.C. Delco,OEX.99426,250.83,2023-12-05 0:00:00,Suspension
-BlueRiver Parts Co.,Delphi,95Z-18289,47.19,2023-11-22 0:00:00,Lighting
+BlueRiver Parts Co.,Delphi,,47.19,2023-11-22 0:00:00,Lighting
 Axis Motor Distributors,Denso Manufacturing,W9C-53576,36.76,2024-03-10 0:00:00,Body
 SummitRide Distributors,NGK Spark,ZXU.45410,383.61,2023-05-23 0:00:00,Steering
 EverDrive Components,Delphi Technologies,h96-20105,409.06,2023-06-11 0:00:00,Electrical
@@ -518,7 +518,7 @@ GreenBridge Automotive,Bosh Corp,EGI-94170,184.72,2024-03-07 0:00:00,Suspension
 EverDrive Components,Delphi,OC692361,271.79,2023-04-05 0:00:00,Lighting
 NorthPeak Auto Supply,Delphi Corp,5IC-26785,210.89,2024-06-07 0:00:00,Body
 MetroTorque Supply,Denso Manufacturing,2z648781,20.54,2024-09-19 0:00:00,Steering
-MetroTorque Supply,A.C. Delco,9xv.09721,290.26,2023-12-25 0:00:00,Lighting
+MetroTorque Supply,A.C. Delco,,290.26,2023-12-25 0:00:00,Lighting
 SummitRide Distributors,Denso Manufacturing,oml-28254,241,2023-11-22 0:00:00,Brakes
 GreenBridge Automotive,NGK,17d-55294,332.79,2024-05-23 0:00:00,Engine
 SilverBolt Components,NGK,9NO/03577,303.16,2023-01-17 0:00:00,Steering
@@ -2260,7 +2260,7 @@ GreenBridge Automotive,Bosch GmbH,OQW-25329,305.73,2023-12-10 0:00:00,Engine
 SummitRide Distributors,NGK,ne6/60764,280.56,2023-12-28 0:00:00,Body
 GreenBridge Automotive,Bosch Co.,FCT-96962,237.47,2023-12-05 0:00:00,Brakes
 NorthPeak Auto Supply,ACDelco,KQB/53845,101.32,2024-03-25 0:00:00,Transmission
-BlueRiver Parts Co.,Denso Manufacturing,0.00E+00,171.52,2024-07-29 0:00:00,Electrical
+BlueRiver Parts Co.,Denso Manufacturing,,171.52,2024-07-29 0:00:00,Electrical
 SilverBolt Components,Bosh Corp,9DO-00441,470.53,2024-09-25 0:00:00,Steering
 Axis Motor Distributors,Valeo Corp,480-26371,292.55,2023-07-07 0:00:00,Transmission
 SilverBolt Components,Delphi,7GF-65091,222.72,2024-10-01 0:00:00,Transmission
@@ -4767,7 +4767,7 @@ RoadLine Auto Parts,Delphi Corp,RYJ-62759,167.84,2024-09-15 0:00:00,Engine
 PrimeGear Logistics,Continental,K80-45398,455.64,2024-05-16 0:00:00,Exhaust
 RoadLine Auto Parts,Magneti-Marelli,uxo-47427,270.71,2024-09-05 0:00:00,Body
 NorthPeak Auto Supply,Bosch,CK5-27155,218.39,2024-09-24 0:00:00,Electrical
-MetroTorque Supply,Bosch,0.00E+00,41.73,2023-11-07 0:00:00,Engine
+MetroTorque Supply,Bosch,,41.73,2023-11-07 0:00:00,Engine
 SummitRide Distributors,Delphi,9wk/01120,318.86,2023-12-02 0:00:00,Brakes
 SummitRide Distributors,NGK Industries,BDO/04286,138.96,2023-10-09 0:00:00,Cooling
 RoadLine Auto Parts,NGK Co.,1ZP-07118,249,2023-06-02 0:00:00,Electrical
@@ -9990,8 +9990,8 @@ Axis Motor Distributors,Denso,AGR-07364,178.53,2023-09-28 0:00:00,Lighting
 Axis Motor Distributors,Valeo SA,bdf70507,380.85,2023-03-25 0:00:00,Brakes
 SummitRide Distributors,ContiTech,9T0-62635,233.76,2024-07-06 0:00:00,Electrical
 BlueRiver Parts Co.,Delphi Systems,5vt-38656,287.49,2024-09-07 0:00:00,Brakes
-GreenBridge Automotive,NGK,CRO-53526,268.73,2023-12-09 0:00:00,Steering
-PrimeGear Logistics,Magneti Marelli,81S3-9221,487.04,2024-02-01 0:00:00,Steering
+GreenBridge Automotive,NGK,CRO-53526,,2023-12-09 0:00:00,Steering
+PrimeGear Logistics,Magneti Marelli,81S3-9221,,2024-02-01 0:00:00,Steering
 GreenBridge Automotive,Magneti-Marelli,841-95883,41.96,2024-01-17 0:00:00,Engine
 EverDrive Components,Valeo,yyx78-672,289.77,2023-04-18 0:00:00,Lighting
 NorthPeak Auto Supply,Valeo Industries,ojm-87927,228.74,2023-11-04 0:00:00,Exhaust

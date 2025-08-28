@@ -8,10 +8,10 @@ SilverBolt Components,NGK,2cs.54052,151.3,2024-05-18 0:00:00,Steering
 RoadLine Auto Parts,Continental,GFV-71519,365.53,2024-10-06 0:00:00,Transmission
 Axis Motor Distributors,Delphi Corp,U92-63065,371.35,2024-04-16 0:00:00,Body
 SummitRide Distributors,NGK Industries,5WT-91227,251.39,2023-07-03 0:00:00,Exhaust
-NorthPeak Auto Supply,Marelli,8H104933,453.3,2023-06-02 0:00:00,Steering
+,Marelli,8H104933,453.3,2023-06-02 0:00:00,Steering
 RoadLine Auto Parts,NGK Industries,U6Z-64298,72.23,2024-04-08 0:00:00,Cooling
 RoadLine Auto Parts,ACDelco,TS6-77687,279.29,2023-05-20 0:00:00,Suspension
-SilverBolt Components,Delphi,LWF3-5843,44.5,2023-08-02 0:00:00,Body
+SilverBolt Components,,LWF3-5843,44.5,2023-08-02 0:00:00,Body
 PrimeGear Logistics,Bosch,lz-p29252,26.86,2024-04-20 0:00:00,Steering
 RoadLine Auto Parts,ACDelco,VKH-24980,161.54,2024-08-11 0:00:00,Lighting
 PrimeGear Logistics,Continental AG,U-QY64530,112.32,2023-03-01 0:00:00,Brakes
@@ -145,9 +145,9 @@ Axis Motor Distributors,Valeo Industries,B7S-67432,78.73,2024-07-18 0:00:00,Cool
 MetroTorque Supply,Valeo SA,jyo-01717,46.42,2023-11-13 0:00:00,Lighting
 BlueRiver Parts Co.,Bosch Industrial,L-1P21244,397.05,2023-01-31 0:00:00,Suspension
 BlueRiver Parts Co.,NGK,c6k4-0801,46.63,2024-03-11 0:00:00,Electrical
-NorthPeak Auto Supply,Denso Manufacturing,7YN-47337,334.74,2024-03-18 0:00:00,Exhaust
-BlueRiver Parts Co.,Valeo Corp,YTB-48735,423.05,2023-12-29 0:00:00,Engine
-GreenBridge Automotive,Bosch,hex.40506,444,2023-08-02 0:00:00,Engine
+NorthPeak Auto Supply,Denso Manufacturing,7YN-47337,,2024-03-18 0:00:00,Exhaust
+BlueRiver Parts Co.,Valeo Corp,YTB-48735,,2023-12-29 0:00:00,Engine
+GreenBridge Automotive,Bosch,hex.40506,,2023-08-02 0:00:00,Engine
 SummitRide Distributors,Denso Manufacturing,RCW/44389,131.31,2024-04-02 0:00:00,Electrical
 SummitRide Distributors,ACDelco,HTR-24578,140.99,2023-07-08 0:00:00,Cooling
 NorthPeak Auto Supply,AC Delco,L3B-32499,443.11,2024-09-10 0:00:00,Transmission
@@ -2323,7 +2323,7 @@ SilverBolt Components,Bosch,ZCY-66278,157.81,2024-05-07 0:00:00,Cooling
 GreenBridge Automotive,Bosch Industrial,IGE-71306,46.04,2023-01-04 0:00:00,Lighting
 SummitRide Distributors,Bosch,wvt-70805,396.09,2023-10-14 0:00:00,Exhaust
 EverDrive Components,Bosch,5VX-28424,290.82,2023-05-23 0:00:00,Cooling
-BlueRiver Parts Co.,Valeo,0.00E+00,452.92,2023-05-04 0:00:00,Transmission
+BlueRiver Parts Co.,Valeo,,452.92,2023-05-04 0:00:00,Transmission
 GreenBridge Automotive,Bosch,4VZ96089,210.91,2023-11-10 0:00:00,Lighting
 RoadLine Auto Parts,Valeo SA,2bz1-8972,292.92,2023-11-17 0:00:00,Electrical
 RoadLine Auto Parts,Denso Manufacturing,Q7H-97387,42.48,2024-01-17 0:00:00,Brakes
