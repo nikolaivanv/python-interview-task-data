@@ -33,7 +33,7 @@ id,part_number,manufacturer_name,updated_at,categories_list,aka_part_numbers_lis
 32,BO1-06127,NGK,2023-12-15 0:00:00,Body;Electrical,F9D-92641;PL9-08756;ABP-38000,NGK Body Part BO1-06127
 33,PK4-20836,NGK,2024-11-12 0:00:00,Steering;Transmission;Engine,,NGK Steering Part PK4-20836
 34,O17-12401,ACDelco,2024-08-21 0:00:00,Lighting;Electrical;Engine,BDS-68344,ACDelco Lighting Part O17-12401
-35,0.00E+00,Continental,2024-11-02 0:00:00,Electrical;Engine,PJS-83636;BQX-68264;E3H-76428,Continental Electrical Part 06E-61398
+35,,Continental,2024-11-02 0:00:00,Electrical;Engine,PJS-83636;BQX-68264;E3H-76428,Continental Electrical Part 06E-61398
 36,BKN-99969,Continental,2024-10-23 0:00:00,Cooling;Transmission;Body,TZ2-15766;4US-06765;TG2-68817,Continental Cooling Part BKN-99969
 37,HVE-13081,Denso,2024-09-15 0:00:00,Brakes,FPY-61503;H96-20105;4G1-53588,Denso Brakes Part HVE-13081
 38,PB3-06805,Bosch,2023-02-05 0:00:00,Engine,P32-77957;7E2-14112;ZP4-79655,Bosch Engine Part PB3-06805
@@ -211,7 +211,7 @@ id,part_number,manufacturer_name,updated_at,categories_list,aka_part_numbers_lis
 210,ZIB-52227,Continental,2024-09-16 0:00:00,Body;Lighting;Cooling,,Continental Body Part ZIB-52227
 211,FTV-88943,Valeo,2023-11-20 0:00:00,Steering;Exhaust;Brakes,84T-95807;9DZ-33528;XEP-12095,Valeo Steering Part FTV-88943
 212,ZYA-42149,Bosch,2023-09-08 0:00:00,Brakes,39Y-93786,Bosch Brakes Part ZYA-42149
-213,0.00E+00,Magneti Marelli,2024-05-23 0:00:00,Suspension,DY2-40515;BIK-35129,Magneti Marelli Suspension Part 10E-37506
+213,,Magneti Marelli,2024-05-23 0:00:00,Suspension,DY2-40515;BIK-35129,Magneti Marelli Suspension Part 10E-37506
 214,K66-24776,Bosch,2023-06-07 0:00:00,Body;Transmission,8MG-25641;3W2-24802;RH5-43342,Bosch Body Part K66-24776
 215,GUC-16419,NGK,2024-06-15 0:00:00,Lighting,,NGK Lighting Part GUC-16419
 216,2T1-63721,Denso,2024-10-16 0:00:00,Brakes;Cooling,ZEA-33855,Denso Brakes Part 2T1-63721
@@ -288,7 +288,7 @@ id,part_number,manufacturer_name,updated_at,categories_list,aka_part_numbers_lis
 287,CHE-16424,Denso,2023-10-23 0:00:00,Exhaust,,Denso Exhaust Part CHE-16424
 288,V2X-69998,Bosch,2024-07-17 0:00:00,Brakes,AGR-07364;NN1-60902,Bosch Brakes Part V2X-69998
 289,PC1-68697,Delphi,2024-07-27 0:00:00,Lighting;Electrical,LCC-49157,Delphi Lighting Part PC1-68697
-290,0.00E+00,Valeo,2024-04-18 0:00:00,Brakes;Exhaust,11T-66629;J29-20008,Valeo Brakes Part 99E-27949
+290,,Valeo,2024-04-18 0:00:00,Brakes;Exhaust,11T-66629;J29-20008,Valeo Brakes Part 99E-27949
 291,298-38037,ACDelco,2023-09-02 0:00:00,Electrical;Brakes;Body,M5D-21518,ACDelco Electrical Part 298-38037
 292,0HX-54676,Delphi,2023-03-22 0:00:00,Steering,JRX-77006,Delphi Steering Part 0HX-54676
 293,SHX-39123,Delphi,2023-02-17 0:00:00,Steering,ZH4-37280;FQF-00817,Delphi Steering Part SHX-39123
@@ -551,7 +551,7 @@ id,part_number,manufacturer_name,updated_at,categories_list,aka_part_numbers_lis
 550,O4V-69267,Magneti Marelli,2023-05-31 0:00:00,Electrical;Cooling,XZM-54612,Magneti Marelli Electrical Part O4V-69267
 551,K26-17766,Magneti Marelli,2023-11-30 0:00:00,Brakes;Steering;Electrical,54J-77941;VVS-97366;5WT-91227,Magneti Marelli Brakes Part K26-17766
 552,87N-92278,Magneti Marelli,2024-09-17 0:00:00,Suspension;Electrical,GVP-28183,Magneti Marelli Suspension Part 87N-92278
-553,0.00E+00,Bosch,2023-02-08 0:00:00,Body;Engine,Z1Q-98509,Bosch Body Part 41E-02150
+553,,Bosch,2023-02-08 0:00:00,Body;Engine,Z1Q-98509,Bosch Body Part 41E-02150
 554,KNH-99502,NGK,2024-07-31 0:00:00,Body;Brakes,8X9-14995,NGK Body Part KNH-99502
 555,PCP-59119,NGK,2023-09-28 0:00:00,Exhaust,ROF-74190;4TM-84601,NGK Exhaust Part PCP-59119
 556,YSE-54426,Continental,2023-05-01 0:00:00,Cooling;Suspension;Steering,W8G-99767,Continental Cooling Part YSE-54426
@@ -949,7 +949,7 @@ id,part_number,manufacturer_name,updated_at,categories_list,aka_part_numbers_lis
 948,WH2-46666,ACDelco,2024-05-29 0:00:00,Suspension,TTF-31325,ACDelco Suspension Part WH2-46666
 949,143-86505,Denso,2023-07-09 0:00:00,Electrical;Suspension,JSO-66946,Denso Electrical Part 143-86505
 950,MTA-64909,Denso,2023-03-13 0:00:00,Suspension,1KU-22823;UUV-45428,Denso Suspension Part MTA-64909
-951,0.00E+00,Bosch,2024-12-01 0:00:00,Suspension,R77-05580;1MF-97746;U31-90695,Bosch Suspension Part 73E-85723
+951,,Bosch,2024-12-01 0:00:00,Suspension,R77-05580;1MF-97746;U31-90695,Bosch Suspension Part 73E-85723
 952,QGG-64005,NGK,2024-02-06 0:00:00,Suspension,6NZ-70936;HKE-87272,NGK Suspension Part QGG-64005
 953,LVV-46933,ACDelco,2024-01-28 0:00:00,Cooling;Electrical;Brakes,1DE-84387,ACDelco Cooling Part LVV-46933
 954,MO2-91365,ACDelco,2023-05-20 0:00:00,Exhaust;Cooling,F7C-79100;WUH-83730,ACDelco Exhaust Part MO2-91365
